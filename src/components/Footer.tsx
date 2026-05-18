@@ -46,7 +46,7 @@ export function Footer() {
             <ul className="space-y-3 text-sm text-muted-foreground">
               <li>
                 <a
-                  href="https://t.me/fasady_saransk"
+                  href="https://t.me/megadecormebel"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-foreground transition-colors"
