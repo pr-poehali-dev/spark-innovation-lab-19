@@ -55,6 +55,11 @@ export function Footer() {
                 </a>
               </li>
               <li>
+                <a href="tel:+79271800115" className="hover:text-foreground transition-colors">
+                  +7 (927) 180-01-15
+                </a>
+              </li>
+              <li>
                 <span className="text-muted-foreground">г. Саранск, Мордовия</span>
               </li>
             </ul>
