@@ -6,7 +6,7 @@ export function Footer() {
           {/* Brand */}
           <div className="md:col-span-2">
             <a href="/" className="inline-block mb-6">
-              <span className="text-foreground text-xl font-semibold tracking-wide">Мегадекор</span>
+              <span className="text-foreground text-xl font-semibold tracking-widest uppercase">МЕГАДЕКОР</span>
             </a>
             <p className="text-muted-foreground leading-relaxed max-w-sm">
               Производство мебельных фасадов в Саранске. МДФ, шпон, пластик, стекло — под любой интерьер и бюджет.
